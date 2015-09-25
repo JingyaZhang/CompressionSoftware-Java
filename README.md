@@ -1,2 +1,2 @@
 # CompressionSoftware-Java
-Project of Data Structure
+Project of Data Structure. Huffman Coding.
